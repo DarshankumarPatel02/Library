@@ -1,5 +1,5 @@
 ##   First i completed xml file from json.
-### The file was long and as we know xml is case-sensitive so i used <LIBRARY> as root tag and <library> for each library and then book collection keeping repeating in which i used multiple <catalog> tag. I have also online validated it.
+### The file was long and as we know xml is case-sensitive so i used '<LIBRARY>' as root tag and '<library>' for each library and then book collection keeping repeating in which i used multiple '<catalog>' tag. I have also online validated it.
 
 XML Validation:-    ![image info](/Project/assets/XML_Validation.png) 
 
