@@ -1,7 +1,7 @@
 ##   First i completed xml file from json.
 ### The file was long and as we know xml is case-sensitive so i used <LIBRARY> as root tag and <library> for each library and then book collection keeping repeating in which i used multiple <catalog> tag. I have also online validated it.
 
-XML Validation:-    ![image info](../Project/Project/assets/XML_Validation.png) 
+XML Validation:-    ![image info](../Project/assets/XML_Validation.png) 
 
 ##   Then Second Part of mine is to do XSD which is dealing with structure and datatype involved in Tags.Most Tag have string datatype except year in which we can use like short or unsignedshort.I have also Added Validation Snapshot for the Same.
 
