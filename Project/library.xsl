@@ -55,10 +55,10 @@
                     <tr>
                             
                         <td colspan='2'><xsl:value-of select="name"/></td>
-                        <td><xsl:value-of select="address/street"/></td>
-                        <td><xsl:value-of select="address/city"/></td>
-                        <td><xsl:value-of select="address/region"/></td>
-                        <td><xsl:value-of select="address/country"/></td>
+                        <td><xsl:value-of select="street"/></td>
+                        <td><xsl:value-of select="city"/></td>
+                        <td><xsl:value-of select="region"/></td>
+                        <td><xsl:value-of select="country"/></td>
                     </tr>     
                     
                     <tr>
