@@ -24,7 +24,6 @@
                     th{
                         padding-top: 12px;
                         padding-bottom: 12px;
-                        text-align: center;
                         background-color: #04AA6D;
                         color: white;
                         font-size:20px;
